@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header {
+
+    background: url(Assets/images/bg-hero-desktop.svg);
+    background-repeat: no-repeat;
+    width:auto;
+    height: 500px;
+    padding: 40px 60px;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+
+#logo{
+    padding-top: 10px;
+    height: 30px;
+    width: 180px;
+}
+#button{
+    background: white;
+    border: none;
+    height: 40px;
+    width: 180px;
+    border-radius: 40px;
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 3px 8px;
+}
+.body1{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    padding-top: 55px;
+}
+#body1text{
+    height: 260px;
+    padding-top: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+#body1pic{
+    height: 370px;
+    width: 530px;
+}
+#body1p{
+
+}
+#body1button{
+    height: 50px;
+    width: 240px;
+    border-radius: 40px;
+    border: none;
+    background:hsl(322, 100%, 66%);
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.sec1{
+    margin: 40px 90px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-shadow: rgba(99, 99, 99, 0.1) 0px 2px 8px 0px;
+}
+#sec1text{
+    padding-left: 100px;
+    padding-top: 120px;
+}
+#sec1p{
+    padding-top: 12px;
+}
+#sec1pic{
+    padding: 30px;
+    height: 280px;
+    width: 350px;
+}
+.sec2{
+    margin: 40px 90px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-shadow: rgba(99, 99, 99, 0.1) 0px 2px 8px 0px;
+}
+#sec2text{
+    padding: 30px;
+   
+    padding-top: 120px;
+}
+#sec2p{
+    padding-top: 12px;
+}
+#sec2pic{
+    padding-left: 100px;
+    height: 280px;
+    width: 350px;
+}
