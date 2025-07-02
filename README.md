@@ -23,9 +23,9 @@ A simple and responsive landing page for **Huddle**, created using HTML and CSS.
 ## 📁 Folder Structure
 
 Huddle-webpage/
-├── images/
-├── index.html
-└── style.css
+├── images/  
+├── index.html  
+└── style.css  
 
 ## 🎯 Features
 
