@@ -22,7 +22,7 @@ A simple and responsive landing page for **Huddle**, created using HTML and CSS.
 
 ## 📁 Folder Structure
 
-Huddle-webpage/
+Huddle-webpage/  
 ├── images/  
 ├── index.html  
 └── style.css  
